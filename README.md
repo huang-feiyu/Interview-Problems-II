@@ -4,3 +4,5 @@
 > [计划](https://leetcode.cn/study-plan/lcof/)
 
 * [Day 1](./day1): Stack & Queue
+* [Day 2](./day2): LinkedList
+
