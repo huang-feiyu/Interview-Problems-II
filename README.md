@@ -8,3 +8,4 @@
 * [Day 3](./day3): String
 * [Day 4](./day4): Search - I
 * [Day 5](./day5): Search - II
+* [Day 6](./day6): BinaryTree - I
