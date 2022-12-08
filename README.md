@@ -7,3 +7,4 @@
 * [Day 2](./day2): LinkedList
 * [Day 3](./day3): String
 * [Day 4](./day4): Search - I
+* [Day 5](./day5): Search - II
