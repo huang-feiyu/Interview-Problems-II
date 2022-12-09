@@ -9,3 +9,4 @@
 * [Day 4](./day4): Search - I
 * [Day 5](./day5): Search - II
 * [Day 6](./day6): BinaryTree - I
+* [Day 7](./day7): BinaryTree - II
