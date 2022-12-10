@@ -14,3 +14,4 @@
 * [Day  9](./day9): DynamicProgramming - II
 * [Day 10](./day10): DynamicProgramming - III
 * [Day 11](./day11): DoublePointer - I
+* [Day 12](./day12): DoublePointer - II
