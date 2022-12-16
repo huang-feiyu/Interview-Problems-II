@@ -25,3 +25,4 @@
 * [Day 20](./day20): Divide and Conquer
 * [Day 21](./day21): Bit Computation - I
 * [Day 22](./day22): Bit Computation - II
+* [Day 23](./day23): Mathematics - I
