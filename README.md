@@ -28,3 +28,4 @@
 * [Day 23](./day23): Mathematics - I
 * [Day 24](./day24): Mathematics - II
 * [Day 25](./day25): Simulation
+* [Day 26](./day26): String
