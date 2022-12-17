@@ -27,3 +27,4 @@
 * [Day 22](./day22): Bit Computation - II
 * [Day 23](./day23): Mathematics - I
 * [Day 24](./day24): Mathematics - II
+* [Day 25](./day25): Simulation
