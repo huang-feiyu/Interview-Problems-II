@@ -30,3 +30,4 @@
 * [Day 25](./day25): Simulation
 * [Day 26](./day26): String
 * [Day 27](./day27): Stack & Queue
+* [Day 28](./day28): Backtracking
