@@ -29,3 +29,4 @@
 * [Day 24](./day24): Mathematics - II
 * [Day 25](./day25): Simulation
 * [Day 26](./day26): String
+* [Day 27](./day27): Stack & Queue
