@@ -33,3 +33,4 @@
 * [Day 28](./day28): Backtracking
 * [Day 29](./day29): DynamicProgramming
 * [Day 30](./day30): Divide and Conquer
+* [Day 31](./day31): Mathematics
