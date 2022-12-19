@@ -32,3 +32,4 @@
 * [Day 27](./day27): Stack & Queue
 * [Day 28](./day28): Backtracking
 * [Day 29](./day29): DynamicProgramming
+* [Day 30](./day30): Divide and Conquer
